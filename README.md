@@ -2,6 +2,8 @@
 
 最近看到了这个好玩的项目，花了点时间让ChatGPT实现了一下，ChatGPT真牛！
 
+如遇报错，大概率是svg2png过程中`cairosvg`包的问题，请自行pip安装，并安装项目下的`gtk2-runtime-2.24.33-2021-01-30-ts-win64.exe`安装包即可解决。
+
 ## 原项目地址：
 
 https://github.com/txstc55/ugly-avatar
